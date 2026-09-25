@@ -10,18 +10,18 @@
       "iconURL": "https://github.com/ZenXST/sade-dagitim/raw/main/icon.png",
       "versions": [
         {
-          "version": "1.4",
-          "buildVersion": "5",
-          "date": "2026-09-25T00:25:08Z",
+          "version": "1.5",
+          "buildVersion": "6",
+          "date": "2026-09-25T00:27:33Z",
           "downloadURL": "https://github.com/ZenXST/sade-dagitim/raw/main/Sade.ipa",
-          "size": 994986,
+          "size": 994985,
           "minOSVersion": "17.0"
         }
       ],
-      "version": "1.4",
-      "versionDate": "2026-09-25T00:25:08Z",
+      "version": "1.5",
+      "versionDate": "2026-09-25T00:27:33Z",
       "downloadURL": "https://github.com/ZenXST/sade-dagitim/raw/main/Sade.ipa",
-      "size": 994986
+      "size": 994985
     }
   ],
   "news": []
